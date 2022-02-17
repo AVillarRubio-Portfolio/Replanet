@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a56239c169f32944aed80a60cf3558b, type: 3}
+  m_Name: Player_WalkingHolding
+  m_EditorClassIdentifier: 
+  animationName: WalkingHolding
+  frames:
+  - {fileID: -2432090755550338912, guid: cf4a6757449cdcd41bf92929706a4358, type: 3}
+  - {fileID: -2432090755550338912, guid: d85edd3decaf9584db8dcdf32a6dc9c5, type: 3}
+  - {fileID: -2432090755550338912, guid: 89bfb680a1c663749838a28cfde58c05, type: 3}
+  - {fileID: -2432090755550338912, guid: 1421b7e2d83431f40b691ae78eca21c5, type: 3}
+  framesPerSecond: 6

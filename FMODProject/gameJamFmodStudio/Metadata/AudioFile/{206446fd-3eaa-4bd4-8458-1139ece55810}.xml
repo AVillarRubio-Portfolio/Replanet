@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{206446fd-3eaa-4bd4-8458-1139ece55810}">
+		<property name="assetPath">
+			<value>vaca2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0382766439909297</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4d1c1d1e-5798-46af-bcf2-fd775cd946db}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a56239c169f32944aed80a60cf3558b, type: 3}
+  m_Name: Doge_Idle
+  m_EditorClassIdentifier: 
+  animationName: Idle
+  frames:
+  - {fileID: -2432090755550338912, guid: 983c2e0a0d5f0a14fa58c5fef969cd4e, type: 3}
+  - {fileID: -2432090755550338912, guid: f58a3d05c8085644d9a4a9261503f053, type: 3}
+  framesPerSecond: 2

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a56239c169f32944aed80a60cf3558b, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: 
+  animationName: Fire
+  frames:
+  - {fileID: -2432090755550338912, guid: fb1fd4fac6867b449b210cdcc97f63f4, type: 3}
+  - {fileID: -2432090755550338912, guid: 66cf8f532e9b5b548969e714730bd869, type: 3}
+  - {fileID: -2432090755550338912, guid: ea6655853fef5624eb77465e83d6f528, type: 3}
+  framesPerSecond: 4
